@@ -7,7 +7,7 @@ You're now looking at ✨young and very ambitious FrontEnd Dev's page✨
 -😉 At this moment i'm probably sitting in front of the screen, so don't be shame to contact me right now
 
 -📞 My contacts: 
- [Email]([[/guides/content/editing-an-existing-page](https://t.me/+380688775028](https://mail.google.com/mail/u/0/?fs=1&to=BorysKorsunn@gmail.com&su=Enquiry&tf=cm))), [Telegram]([/guides/content/editing-an-existing-page](https://t.me/+380688775028)), [LinkedIn]([[/guides/content/editing-an-existing-page](https://t.me/+380688775028](https://www.linkedin.com/in/boris-korsun/))) 
+ [Email](https://mail.google.com/mail/u/0/?fs=1&to=BorysKorsunn@gmail.com&su=Enquiry&tf=cm), [Telegram](https://t.me/+380688775028), [LinkedIn](https://www.linkedin.com/in/boris-korsun/) 
 
 <!--
 **BorisKorsun/BorisKorsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
