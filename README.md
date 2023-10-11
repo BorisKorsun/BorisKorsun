@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You're now looking at ✨young and very ambitious FrontEnd Dev's page✨
+You're now looking at young and very ambitious FrontEnd Dev's page
 
 -💪 Ready and armed for interesting projects ideas
 
